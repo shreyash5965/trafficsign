@@ -39,7 +39,7 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 ---
 
 ## OUTPUT
-<p align = 'center'>
+<!--<p align = 'center'>
   <img src = './Support/1.png' align = 'center'>
 </p>
 
@@ -60,7 +60,7 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 
 ## APP
 
-![Traffic sign](https://github.com/deepak2233/Traffic-Signs-Recognition-using-CNN-Keras/blob/main/Support/Traffic%20sign.gif)
-
+//![Traffic sign](https://github.com/deepak2233/Traffic-Signs-Recognition-using-CNN-Keras/blob/main/Support/Traffic%20sign.gif)
+-->
 
 
